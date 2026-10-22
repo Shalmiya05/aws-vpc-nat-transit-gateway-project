@@ -87,7 +87,7 @@ Both tests received successful ICMP responses, demonstrating connectivity to the
 
 ### Transit Gateway Connectivity Test
 
-![Transit Gateway Connectivity Test](Tranist-gw-execution.jpeg)
+![Transit Gateway Connectivity Test](Transit-gw-execution.jpeg)
 
 Successful responses demonstrate IP connectivity to the tested destinations at the time of testing. The Transit Gateway attachment and route table configurations should be checked separately to document the exact network path.
 
@@ -126,7 +126,7 @@ This project was built for AWS networking practice and educational purposes. The
 
 ![NAT Execution](NAT-Ececution.jpeg)
 
-![NAT Instance](Nat-Instance.jpeg)
+![NAT Instance](NAT-Instance.jpeg)
 
 ![Transit gateway instance](Transit-gw-instance.jpeg)
 
